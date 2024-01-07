@@ -1,5 +1,5 @@
 # Portfolio
-This is my Portfolio
+Voici mon Portfolio, vous pouvez télécharger les différents projets que j'ai réalisé.
 ### Python Project:
 - Démineur
 - Pokedex
