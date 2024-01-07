@@ -5,9 +5,9 @@ Voici mon Portfolio, vous pouvez télécharger les différents projets que j'ai 
 - Démineur [Lien de Téléchargement](https://github/Nathan-GUYARD/)
 > ![presentation image](/asset/img/demineur.jpeg)
 - Pokedex [Lien de Téléchargement](https://github/Nathan-GUYARD/)
-> ![presentation image](/asset/img/pokedex1.jpeg) ![presentation image](/asset/img/pokedex2.jpeg) ![presentation image](/asset/img/pokedex3.jpeg)
+> ![presentation image](/asset/img/pokedex1.jpeg) ![presentation image](/asset/img/pokedex2.jpeg)
 - What is the Language [Lien de Téléchargement](https://github/Nathan-GUYARD/)
-> ![presentation image](/asset/img/WITL.jpeg)
+> ![presentation image](/asset/img/WITL.jpg)
 - Robot Escape [Lien de Téléchargement](https://github/Nathan-GUYARD/)
 > ![presentation image](/asset/img/robot_escape.jpeg)
 
