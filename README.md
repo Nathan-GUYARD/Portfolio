@@ -3,14 +3,14 @@ Voici mon Portfolio, vous pouvez télécharger les différents projets que j'ai 
 
 ### Python Project:
 - Démineur [Lien de Téléchargement](https://github/Nathan-GUYARD/)
-> <img src="/asset/img/demineur.jpeg" alt="presentation image" width="200"/>
+> ![](/asset/img/demineur.jpeg)
 - Pokedex [Lien de Téléchargement](https://github/Nathan-GUYARD/)
-> <img src="/asset/img/pokedex1.jpeg" alt="presentation image" width="200"/> <img src="/asset/img/pokedex2.jpeg" alt="presentation image" width="200"/>
+> ![](/asset/img/pokedex1.jpeg) ![](/asset/img/pokedex2.jpeg)
 - What is the Language [Lien de Téléchargement](https://github/Nathan-GUYARD/)
-> <img src="/asset/img/WITL.jpg" alt="presentation image" width="200"/>
+> ![](/asset/img/WITL.jpeg)
 - Robot Escape [Lien de Téléchargement](https://github/Nathan-GUYARD/)
-> <img src="/asset/img/robot_escape.jpeg" alt="presentation image" width="200"/>
+> ![](/asset/img/robot_escape.jpeg)
 
 ### Godot Project:
 - Asteroid [Lien de Téléchargement](https://github/Nathan-GUYARD/)
-> <img src="/asset/img/asteroid.jpeg" alt="presentation image" width="200"/>
+> ![](/asset/img/asteroid.jpeg)
