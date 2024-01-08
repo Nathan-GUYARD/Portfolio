@@ -1,6 +1,3 @@
-# Portfolio
-Voici mon Portfolio, vous pouvez télécharger les différents projets que j'ai réalisé.
-
 ## Python Project:
 #### - **Démineur** [Téléchargement](https://github.com/Nathan-GUYARD/)
 > ![](/asset/img/demineur.jpeg)
