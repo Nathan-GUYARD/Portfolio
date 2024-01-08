@@ -1,4 +1,4 @@
-# Projets Python:
+# Projets Python :
 ### - **Démineur** [Téléchargement](https://github.com/Nathan-GUYARD/)
 > ![](/asset/img/demineur.jpeg)
 
@@ -11,6 +11,6 @@
 ### - **Robot Escape** [Téléchargement](https://github.com/Nathan-GUYARD/)
 > ![](/asset/img/robot_escape.jpeg)
 
-# Projets Godot:
+# Projets Godot :
 ### - **Asteroid** [Téléchargement](https://github.com/Nathan-GUYARD/)
 > ![](/asset/img/asteroid.jpeg)
