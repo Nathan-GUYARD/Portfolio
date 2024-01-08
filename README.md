@@ -1,4 +1,4 @@
-## Projetd Python:
+## Projets Python:
 #### - **Démineur** [Téléchargement](https://github.com/Nathan-GUYARD/)
 > ![](/asset/img/demineur.jpeg)
 #### - **Pokedex** [Téléchargement](https://youtu.be/dQw4w9WgXcQ?si=zKPJcP0DgTZa9_YQ)
