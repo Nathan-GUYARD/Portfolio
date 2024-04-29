@@ -16,4 +16,4 @@
 > ![](/asset/img/asteroid.jpeg)
 
 ### [Pavage du Caire](https://github.com/Nathan-GUYARD/Pavage-du-Caire/)
-> ![](/asset/img/pavage.png) ![](/asset/img/stat.png)
+> ![](/asset/img/pavage.jpeg) ![](/asset/img/stat.jpeg)
